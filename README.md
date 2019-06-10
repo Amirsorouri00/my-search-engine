@@ -40,6 +40,11 @@ To use the search engine, just type this endpoint in your web browser : http://l
 ## USEFULL LINKS
 * https://www.freecodecamp.org/news/elasticsearch-with-django-the-easy-way-909375bc16cb/
 * https://github.com/adamwattis/elasticsearch-example
+* https://docs.scrapy.org/en/latest/topics/benchmarking.html?highlight=redirect%20enabled
+* https://en.wikipedia.org/wiki/Sitemaps
+* https://docs.scrapy.org/en/latest/topics/extensions.html?highlight=pagecount#extension-settings
+* https://docs.scrapy.org/en/latest/topics/practices.html#running-multiple-spiders-in-the-same-process
+
 
 ## LICENCE
 MIT
