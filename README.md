@@ -48,6 +48,7 @@ To use the search engine, just type this endpoint in your web browser : http://l
 * https://opensourcehacker.com/2011/03/08/installing-and-using-scrapy-web-crawler-to-search-text-on-multiple-sites/
 * https://github.com/naqushab/SearchEngineScrapy
 * https://github.com/scrapinghub/frontera
+* http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/
 
 ## LICENCE
 MIT
