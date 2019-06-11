@@ -44,6 +44,7 @@ To use the search engine, just type this endpoint in your web browser : http://l
 * https://en.wikipedia.org/wiki/Sitemaps
 * https://docs.scrapy.org/en/latest/topics/extensions.html?highlight=pagecount#extension-settings
 * https://docs.scrapy.org/en/latest/topics/practices.html#running-multiple-spiders-in-the-same-process
+* https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
 
 
 ## LICENCE
