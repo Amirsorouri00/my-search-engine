@@ -47,6 +47,7 @@ To use the search engine, just type this endpoint in your web browser : http://l
 * https://www.digitalocean.com/community/tutorials/how-to-crawl-a-web-page-with-scrapy-and-python-3
 * https://opensourcehacker.com/2011/03/08/installing-and-using-scrapy-web-crawler-to-search-text-on-multiple-sites/
 * https://github.com/naqushab/SearchEngineScrapy
+* https://github.com/scrapinghub/frontera
 
 ## LICENCE
 MIT
